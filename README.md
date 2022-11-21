@@ -28,4 +28,5 @@ This project is an inventory program that allows the user to perform various act
 2. Perform the prompted actions (if any)
 3. Type **q** to quit
 
-![Program menu](https://drive.google.com/file/d/12pyToNWLmJyfeNBFh6bU0mEtYO3MkDhh/view?usp=sharing)
+<img width="484" alt="Screenshot 2022-11-21 at 20 49 27" src="https://user-images.githubusercontent.com/107858619/203156650-5938a26a-aba3-4617-ad37-b0552b7f0964.png">
+
