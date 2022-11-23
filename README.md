@@ -24,7 +24,7 @@ This project is an inventory program that allows the user to perform various act
   * This shoe is then displayed as being on sale
 
 ### How to use the program?
-1. Select one of the meny options
+1. Select one of the many options
 2. Perform the prompted actions (if any)
 3. Type **q** to quit
 
